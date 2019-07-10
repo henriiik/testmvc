@@ -1,5 +1,12 @@
 # Todo Test
 
+## Getting started
+
+1. clone the repo
+2. `cd` to the repo root
+3. run `npm install`
+4. run `npm run start`
+
 ## Functionality
 
 ### No todos
