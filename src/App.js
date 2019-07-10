@@ -54,7 +54,7 @@ function App() {
 					<button className="clear-completed">Clear completed</button>
 				</footer>
 			</section>
-			<footer class="info">
+			<footer className="info">
 				<p>Double-click to edit a todo</p>
 			</footer>
 		</>
